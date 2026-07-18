@@ -38,7 +38,7 @@ fun_fact: "I turn coffee ☕ and glassmorphism 💜 into production-ready apps"
 </td>
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/Rushabh-Gandhi/rushabh-gandhi/main/assets/dev_girl.gif" width="320"/>
+<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="320"/>
 
 </td>
 </tr>
