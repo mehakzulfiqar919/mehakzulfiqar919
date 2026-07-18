@@ -10,9 +10,7 @@
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:8e2de2,100:ff6ec4&height=3&width=100%25" width="100%">
 
 <table align="center">
 <tr>
@@ -38,13 +36,13 @@ fun_fact: "I turn coffee ☕ and glassmorphism 💜 into production-ready apps"
 </td>
 <td width="40%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="320"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind&theme=dark" width="280"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:8e2de2,100:ff6ec4&height=3&width=100%25" width="100%">
 
 ## 🛠️ Skills & Tech Stack
 
@@ -152,7 +150,7 @@ fun_fact: "I turn coffee ☕ and glassmorphism 💜 into production-ready apps"
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:8e2de2,100:ff6ec4&height=3&width=100%25" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -203,7 +201,7 @@ Restaurant/food ordering concept site with a vibrant UI and smooth interaction d
   <em>More AI Agent & Automation projects coming soon 🤖✨</em>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:8e2de2,100:ff6ec4&height=3&width=100%25" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -245,7 +243,7 @@ Restaurant/food ordering concept site with a vibrant UI and smooth interaction d
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:8e2de2,100:ff6ec4&height=3&width=100%25" width="100%">
 
 ## 🌐 Connect With Me
 
@@ -278,7 +276,7 @@ Restaurant/food ordering concept site with a vibrant UI and smooth interaction d
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:8e2de2,100:ff6ec4&height=3&width=100%25" width="100%">
 
 <div align="center">
 
