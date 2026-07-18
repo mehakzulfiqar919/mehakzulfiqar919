@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:8e2de2,100:ff6ec4&height=3&width=100%25" width="100%">
+<hr style="height:3px;border:none;background:linear-gradient(to right,#0f0c29,#8e2de2,#ff6ec4);">
 
 <table align="center">
 <tr>
@@ -42,7 +42,7 @@ fun_fact: "I turn coffee ☕ and glassmorphism 💜 into production-ready apps"
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:8e2de2,100:ff6ec4&height=3&width=100%25" width="100%">
+<hr style="height:3px;border:none;background:linear-gradient(to right,#0f0c29,#8e2de2,#ff6ec4);">
 
 ## 🛠️ Skills & Tech Stack
 
@@ -150,7 +150,7 @@ fun_fact: "I turn coffee ☕ and glassmorphism 💜 into production-ready apps"
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:8e2de2,100:ff6ec4&height=3&width=100%25" width="100%">
+<hr style="height:3px;border:none;background:linear-gradient(to right,#0f0c29,#8e2de2,#ff6ec4);">
 
 ## 🚀 Featured Projects
 
@@ -201,7 +201,7 @@ Restaurant/food ordering concept site with a vibrant UI and smooth interaction d
   <em>More AI Agent & Automation projects coming soon 🤖✨</em>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:8e2de2,100:ff6ec4&height=3&width=100%25" width="100%">
+<hr style="height:3px;border:none;background:linear-gradient(to right,#0f0c29,#8e2de2,#ff6ec4);">
 
 ## 📊 GitHub Stats
 
@@ -243,7 +243,7 @@ Restaurant/food ordering concept site with a vibrant UI and smooth interaction d
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:8e2de2,100:ff6ec4&height=3&width=100%25" width="100%">
+<hr style="height:3px;border:none;background:linear-gradient(to right,#0f0c29,#8e2de2,#ff6ec4);">
 
 ## 🌐 Connect With Me
 
@@ -276,7 +276,7 @@ Restaurant/food ordering concept site with a vibrant UI and smooth interaction d
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:8e2de2,100:ff6ec4&height=3&width=100%25" width="100%">
+<hr style="height:3px;border:none;background:linear-gradient(to right,#0f0c29,#8e2de2,#ff6ec4);">
 
 <div align="center">
 
