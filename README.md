@@ -168,8 +168,8 @@ fun_fact: "I turn coffee ☕ and glassmorphism 💜 into production-ready apps"
 
 ### 🌿 Natural World
 Production e-commerce platform for natural beauty products, built with PHP & MySQL, focused on clean UX and reliable checkout flow.
+`HTML` `CSS` `JavaScript` `reactjs` `nodejs` `mongodb`
 
-`PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
 </td>
 <td width="50%">
@@ -187,7 +187,7 @@ Personal brand portfolio with a dark, futuristic aesthetic, glassmorphism UI, ci
 ### 🎂 Mahak Clothes
 A modern storefront concept showcasing clean product presentation and responsive, animated layouts.
 
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `php` `mysql`
 
 </td>
 <td width="50%">
@@ -195,7 +195,7 @@ A modern storefront concept showcasing clean product presentation and responsive
 ### 🍔 GFC Fast Food
 Restaurant/food ordering concept site with a vibrant UI and smooth interaction design.
 
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `php` `mysql`
 
 </td>
 </tr>
@@ -233,13 +233,7 @@ Restaurant/food ordering concept site with a vibrant UI and smooth interaction d
 
 </div>
 
-## 🏆 Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mehakzulfiqar919&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" width="100%"/>
-
-</div>
 
 ## 👀 Visitor Counter
 
