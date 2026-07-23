@@ -12,7 +12,13 @@
 
 <div align="center">
 
-<img src="https://i.ibb.co/cckqST9m/file-000000001b788207a2d4ec217946ca9d-1.png" width="380" style="border-radius:16px; box-shadow: 0 0 30px rgba(226,98,255,0.4);"/>
+<a href="https://i.ibb.co/cckqST9m/file-000000001b788207a2d4ec217946ca9d-1.png" target="_blank">
+  <img
+    src="https://i.ibb.co/cckqST9m/file-000000001b788207a2d4ec217946ca9d-1.png"
+    width="100%"
+    style="border-radius:20px; box-shadow:0 0 30px rgba(226,98,255,0.4);"
+  />
+</a>
 
 </div>
 
