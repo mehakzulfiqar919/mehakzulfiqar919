@@ -12,12 +12,15 @@
 
 <div align="center">
 
-<a href="https://ibb.co/DfDbdPfX" target="_blank">
-  <img src="https://i.ibb.co/DfDbdPfX/Whats-App-Image-2026-07-24-at-1-13-41-AM.jpg"
-       alt="TwinkleMist Portfolio"
-       width="650"
-       style="border-radius:20px; box-shadow:0 0 30px rgba(226,98,255,0.4); display:block; margin:auto;">
-</a>
+<p align="center">
+  <a href="https://ibb.co/CKGzkQzv" target="_blank">
+    <img
+      src="https://i.ibb.co/VY4t7TtD/file-00000000d93082089a21e3bd9f799d24.png"
+      alt="TwinkleMist About Me"
+      width="100%"
+      style="border-radius:20px; box-shadow:0 0 30px rgba(226,98,255,0.4);" />
+  </a>
+</p>
 
 </div>
 
