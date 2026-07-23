@@ -21,7 +21,23 @@
 <table align="center">
 <tr>
 <td width="60%" valign="top">
-
+✨ What I Create
+🌐 Modern & Responsive Websites
+🤖 AI Agents & Smart Automation
+🎨 Clean UI with Smooth Animations
+💜 Turning Ideas into Beautiful Digital Experiences
+Ya phir aur bhi classy version:
+💜 My Creative Space
+✨ Crafting Modern Web Experiences
+🤖 Building Intelligent AI Solutions
+🎨 Designing Elegant User Interfaces
+🚀 Always Learning. Always Creating.
+Ya ek short premium version:
+✦ Beyond Coding
+💻 Building with Passion
+🤖 Automating with AI
+🎨 Designing with Creativity
+🌟 Growing Every Day
 
 </td>
 <td width="40%" align="center">
