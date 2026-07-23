@@ -22,22 +22,6 @@
 <tr>
 <td width="60%" valign="top">
 
-## 💫 About Me
-
-name: "Mehak Zulfiqar"
-brand: "TwinkleMist"
-role: "Full Stack Web Developer & AI Agent / Automation Specialist"
-location: "Gujranwala, Pakistan 🇵🇰"
-education: "ADP Computer Science — Superior College Faisalabad (GCU Affiliated)"
-currently_building: "Freelance & professional portfolio in Web Dev + AI Tooling"
-currently_learning: "Advanced AI Agent Architectures & Automation Workflows"
-fun_fact: "I turn coffee ☕ and glassmorphism 💜 into production-ready apps"
-
-- 🔭 I'm currently building modern, animated, full-stack web experiences
-- 🌱 I'm diving deeper into **AI Agents & Automation**
-- 💜 I love clean UI, purple/pink aesthetics & smooth micro-animations
-- ⚡ Fun fact: I design premium interfaces before writing a single line of logic
-- 📫 Reach me via the contact section below!
 
 </td>
 <td width="40%" align="center">
